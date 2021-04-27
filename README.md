@@ -4,7 +4,8 @@ Proyecto creado en el curso de aprende Flutter gratis en - [Aprende Flutter grat
 
 Tutorial paso a paso en:
 - [6. Empaquetando todo 1 a 5 - Utilizando todos los widgets aprendidos de los capitulos del 1 al 5.](https://capitanapps.com/curso-flutter-temario)
-- [6.1 Personalizando nuestro diseño de la lista](https://github.com/capps99/vaccine_finder_app/tree/6.1-personalizacion-list-view)
+- [6.1 Creando nuestro diseño.](https://github.com/capps99/vaccine_finder_app/tree/6.1-personalizacion-list-view)
+- [6.2 Asignando información a cada elemento de la lista.](https://github.com/capps99/vaccine_finder_app/tree/6.2-creando-modelos)
 
 ## Getting Started
 
